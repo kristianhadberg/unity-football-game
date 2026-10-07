@@ -3,7 +3,6 @@ using System.Text.RegularExpressions;
 using Cinemachine;
 using TMPro;
 using Unity.VisualScripting;
-using UnityEditor.Search;
 using UnityEngine;
 using UnityEngine.Animations;
 using UnityEngine.UI;
